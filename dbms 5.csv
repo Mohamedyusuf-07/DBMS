@@ -1,0 +1,9 @@
+transaction_id,customer_name,transaction_type,payment_method,transaction_date,amount,transaction_status
+701,"Rahul Kumar",Purchase,UPI,2026-09-01,8500.00,Successful
+702,"Priya Sharma",Purchase,"Debit Card",2026-09-02,6200.00,Successful
+703,"Vignesh Raj",Refund,UPI,2026-09-03,2500.00,Completed
+704,"Anjali Devi",Purchase,"Net Banking",2026-09-04,11500.00,Failed
+705,"Sanjay Kumar",Purchase,"Credit Card",2026-09-05,9300.00,Successful
+706,"Rahul Kumar",Purchase,Cash,2026-09-06,4500.00,Successful
+707,"Vignesh Raj",Purchase,UPI,2026-09-07,12800.00,Successful
+708,"Priya Sharma",Purchase,"Credit Card",2026-09-08,7600.00,Successful
