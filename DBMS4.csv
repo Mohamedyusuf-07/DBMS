@@ -1,0 +1,6 @@
+customer_id,order_id,order_date,product_name,quantity,price,total_amount
+11,201,2026-01-20,Keyboard,2,750.00,1500.00
+12,202,2026-02-10,Mouse,3,400.00,1200.00
+13,203,2026-03-05,Headset,1,450.00,450.00
+14,204,2026-04-12,Monitor,2,900.00,1800.00
+15,205,2026-05-20,Webcam,1,950.00,950.00
