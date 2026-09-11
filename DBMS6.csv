@@ -1,0 +1,6 @@
+Book_Name,Author,Member_Name,Department,Issue_Date,Return_Date,Status
+"Rich Dad Poor Dad","Robert Kiyosaki",Rahul,"Information Technology",2026-09-03,2026-09-17,Borrowed
+"Atomic Habits","James Clear",Arun,"Computer Science",2026-09-01,2026-09-15,Borrowed
+"Python Basics","John Smith",Ajay,"Data Science",2026-08-25,2026-09-08,Returned
+"Wings of Fire","A.P.J. Abdul Kalam",Kumar,"Artificial Intelligence",2026-08-20,2026-09-03,Returned
+"Atomic Habits","James Clear",Vijay,"Computer Applications",2026-08-10,2026-08-24,Returned
